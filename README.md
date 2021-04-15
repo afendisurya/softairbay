@@ -1,12 +1,17 @@
 v1.1.1
 
 What's New :
+
 *. Added Time.
+
 *. Added The Teks of Information Status Payout.
 
 Fix :
+
 *. Error EC-Id.
+
 *. Error Status Payout.
+
 *. Error Token.
 
 Bug :
