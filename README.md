@@ -1,4 +1,4 @@
-v1.1.1
+#v1.1.1
 
 What's New :
 
@@ -18,17 +18,23 @@ Bug :
 -
 
 
-v1.0.0
+#v1.0.0
 
 What's New :
+
 *. Added EC-Id.
+
 *. Added Status Payout.
+
 *. Added Token.
 
 Fix :
 -
 
 Bug :
+
 *. Error EC-Id
+
 *. Error Status Payout
+
 *. Error Token
