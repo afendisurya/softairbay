@@ -2,21 +2,21 @@
 
 What's New :
 
-*. Added Time.
+*. Added Time
 
-*. Added The Teks of Information Status Payout.
+*. Added The Teks of Information Status Payout
 
 Fix :
 
-*. Error EC-Id.
+*. Error EC-Id
 
-*. Error Status Payout.
+*. Error Status Payout
 
-*. Error Token.
+*. Error Token
 
 Bug :
--
 
+*. -
 
 #v1.0.0
 
@@ -29,7 +29,8 @@ What's New :
 *. Added Token.
 
 Fix :
--
+
+*. 
 
 Bug :
 
