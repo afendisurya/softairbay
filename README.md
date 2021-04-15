@@ -30,7 +30,7 @@ What's New :
 
 Fix :
 
-*. 
+*. -
 
 Bug :
 
