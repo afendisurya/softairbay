@@ -21,8 +21,9 @@ $warna_luar_merah_terang = "\033[101m";
 /* NOTE
 
 
-/*
 
-\XXX[1;XXm] = 1 -> TEBAL
 
+XXX[1;XXm] = 1 -> TEBAL
+
+*/
 ?>
