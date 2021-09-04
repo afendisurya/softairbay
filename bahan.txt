@@ -1,0 +1,6 @@
+https://www.softairbay.com/
+POST
+https://www.softairbay.com/autoSAB/auto.php
+COOKIE = 
+DATA = DOGECOIN=ttyng
+DOGECOIN=yuiop
